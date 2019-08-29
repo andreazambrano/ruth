@@ -81,12 +81,12 @@ a:focus {
     text-decoration: none; 
 }
 a:focus, a:hover { 
-    color: #fd226a; 
+    color: #dd2587; 
     text-decoration: none; 
 }
 a, button, input { 
     outline: medium none; 
-    color: #fd226a; 
+    color: #dd2587; 
 }
 strong{ 
   font-weight: 600;
@@ -98,17 +98,17 @@ iframe{
 }
 
 *::-moz-selection { 
-    background: #fd226a; 
+    background: #dd2587; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #fd226a; 
+    background: #dd2587; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #fd226a; 
+    background: #dd2587; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -179,7 +179,7 @@ input::-webkit-input-placeholde  {
 }
 
 a:hover {
-    color: #fd226a;
+    color: #dd2587;
 }
 
 menu, ol, ul {
@@ -636,7 +636,7 @@ ul.star-rating li,
 .price .Price-amount.amount .Price-currencySymbol,
 .ttm-bgcolor-white .ttm-fid-contents h4,
 .ttm-header-style-classic-overlay .ttm-header-icons .ttm-header-cart-link a:hover{
-    color: #fd226a;
+    color: #dd2587;
 }
 /*bgcolor-skincolor*/
 .ttm-bgcolor-skincolor,
@@ -695,7 +695,7 @@ a.checkout-button:hover,
 .mailchimp-inputbox input[type="submit"],
 div.product ul.tabs li.active,
 .progress .progress-bar.progress-bar-color-bar_skincolor.with-lable:before{
-    background-color: #fd226a;
+    background-color: #dd2587;
 }
 .ttm-box-view-overlay,
 .ttm-portfolio-box-view-overlay {
@@ -712,7 +712,7 @@ div.product ul.tabs li.active,
 .ttm-pagination .page-numbers.current,
 .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-border,
 .tp-caption.highlight-black-button:hover{
-    border-color: #fd226a ;
+    border-color: #dd2587 ;
 
 }
 .sidebar .widget .widget-title:before, 
@@ -725,10 +725,10 @@ div.product ul.tabs li.active,
 .icon-outline-border .ttm-icon_element-style-rounded:before,
 .ttm-icon_element-border.ttm-icon_element-color-skincolor,
 .ttm-icon.ttm-icon_element-border.ttm-icon_element-color-skincolor{
-    border-color: #fd226a;
+    border-color: #dd2587;
 }
 
-.ttm-search-overlay {border-top-color: #fd226a;}
+.ttm-search-overlay {border-top-color: #dd2587;}
 .comment-form textarea:focus,
 .comment-form input[type="text"]:focus, 
 .comment-form input[type="email"]:focus, 
@@ -737,10 +737,10 @@ div.product ul.tabs li.active,
 .ttm-search-overlay .w-search-form-row:before,
 .contactform .text-input:focus,
 .contactform .text-area:focus{
-    border-bottom-color: #fd226a !important ;
+    border-bottom-color: #dd2587 !important ;
 }
 div.product ul.tabs li.active:before{
-    border-top-color: #fd226a !important ;
+    border-top-color: #dd2587 !important ;
 }
 /*white-color*/
 .ttm-textcolor-white,
@@ -1009,17 +1009,17 @@ a.checkout-button,
 ul.products li.product .onsale,
 .ttm-single-content-wrap-box,
 .ttm-pf-single-content-wrapper.ttm-pf-view-top-image .ttm-pf-single-detail-box{
-    background-color: #14081f;
+    background-color: #14081f99;
 }
 /*black-border*/
 .ttm-icon_element-border.ttm-icon_element-color-black{
-    border-color: #14081f !important ;
+    border-color: #14081f99 !important ;
 }
 
 /*black-bg*/
 .ttm-bgcolor-black,
 .ttm-bgcolor-black > .ttm-bg-layer{
-  background-color: #14081f;
+  background-color: #14081f99;
 }
 
 /* grey-bg*/
@@ -1039,7 +1039,7 @@ ul.products li.product .onsale,
 .btn.btn-fill:hover , .mailchimp-inputbox button[type="submit"]:hover,
 .ttm-btn.ttm-btn-color-black.ttm-btn-style-border:hover ,
 .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-fill:hover{
-    background-color: #14081f;
+    background-color: #14081f99;
     color: #fff;
 }
 .ttm-bgcolor-black .ttm-custombutton:hover a{
@@ -1401,8 +1401,8 @@ ul li .icon-box.icon-style-border{
     -o-transition: all .3s ease-in-out;
 }
 .ttm-search-close:hover {
-    background-color: #14081f;
-    border-color: #14081f;
+    background-color: #14081f99;
+    border-color: #14081f99;
     color: #fff;
 }
 .ttm-search-overlay.st-show .container{position: relative;}

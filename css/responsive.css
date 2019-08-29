@@ -203,7 +203,7 @@
     }
     .ttm-stickable-header.fixed-header {
         z-index: 111;
-        background-color: #14081f;
+        background-color: #14081f99;
         box-shadow: 0 4px 10px 0 rgba(0,0,0,0.06);
     }
     #site-header-menu .ttm-stickable-header.fixed-header #site-navigation,
@@ -412,7 +412,7 @@
 
     /* Header-style-classic */
     .ttm-header-style-classic-overlay #ttm-stickable-header-w.ttm-stickable-header-w {
-        background-color: #14081f;
+        background-color: #14081f99;
     }
 
     .ttm-row .container,.element-row .container{ max-width: 100%; padding: 0; }
